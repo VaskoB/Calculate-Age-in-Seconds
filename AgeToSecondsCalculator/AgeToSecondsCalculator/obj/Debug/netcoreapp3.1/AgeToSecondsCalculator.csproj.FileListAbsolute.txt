@@ -1,0 +1,13 @@
+F:\C# Projects\AgeToSecondsCalculator\AgeToSecondsCalculator\AgeToSecondsCalculator\bin\Debug\netcoreapp3.1\AgeToSecondsCalculator.exe
+F:\C# Projects\AgeToSecondsCalculator\AgeToSecondsCalculator\AgeToSecondsCalculator\bin\Debug\netcoreapp3.1\AgeToSecondsCalculator.deps.json
+F:\C# Projects\AgeToSecondsCalculator\AgeToSecondsCalculator\AgeToSecondsCalculator\bin\Debug\netcoreapp3.1\AgeToSecondsCalculator.runtimeconfig.json
+F:\C# Projects\AgeToSecondsCalculator\AgeToSecondsCalculator\AgeToSecondsCalculator\bin\Debug\netcoreapp3.1\AgeToSecondsCalculator.runtimeconfig.dev.json
+F:\C# Projects\AgeToSecondsCalculator\AgeToSecondsCalculator\AgeToSecondsCalculator\bin\Debug\netcoreapp3.1\AgeToSecondsCalculator.dll
+F:\C# Projects\AgeToSecondsCalculator\AgeToSecondsCalculator\AgeToSecondsCalculator\bin\Debug\netcoreapp3.1\AgeToSecondsCalculator.pdb
+F:\C# Projects\AgeToSecondsCalculator\AgeToSecondsCalculator\AgeToSecondsCalculator\obj\Debug\netcoreapp3.1\AgeToSecondsCalculator.csprojAssemblyReference.cache
+F:\C# Projects\AgeToSecondsCalculator\AgeToSecondsCalculator\AgeToSecondsCalculator\obj\Debug\netcoreapp3.1\AgeToSecondsCalculator.AssemblyInfoInputs.cache
+F:\C# Projects\AgeToSecondsCalculator\AgeToSecondsCalculator\AgeToSecondsCalculator\obj\Debug\netcoreapp3.1\AgeToSecondsCalculator.AssemblyInfo.cs
+F:\C# Projects\AgeToSecondsCalculator\AgeToSecondsCalculator\AgeToSecondsCalculator\obj\Debug\netcoreapp3.1\AgeToSecondsCalculator.csproj.CoreCompileInputs.cache
+F:\C# Projects\AgeToSecondsCalculator\AgeToSecondsCalculator\AgeToSecondsCalculator\obj\Debug\netcoreapp3.1\AgeToSecondsCalculator.dll
+F:\C# Projects\AgeToSecondsCalculator\AgeToSecondsCalculator\AgeToSecondsCalculator\obj\Debug\netcoreapp3.1\AgeToSecondsCalculator.pdb
+F:\C# Projects\AgeToSecondsCalculator\AgeToSecondsCalculator\AgeToSecondsCalculator\obj\Debug\netcoreapp3.1\AgeToSecondsCalculator.genruntimeconfig.cache
